@@ -1,0 +1,24 @@
+h1 {color: #fff; font-size: 22px; text-align:center; font-family: Verdana, Geneva, sans-serif;}
+
+td {background-color: #000}
+
+p {color: #000; font-size: 14px; text-align: justify; font-family: Verdana, Geneva, sans-serif;}
+
+p.foot {color: #fff; font-size: 10px; text-align: center; font-family: Verdana, Geneva, sans-serif; font-weight: bold}
+		/*a:link,a.visited,a:active {color: #b6d}	*/
+		/*nav a {	color: #f5a06e; text-transform: uppercase; text-decoration: none; display: inline-block; font-weight: bold; font-size: .9em}
+		nav a:hover { color: #fff; }*/
+		
+a.cta { text-transform: uppercase; font-size:.9em; font-weight: bold; text-decoration: none; margin: .5em 0 0 0; padding: 0px 12px 0px 0px}
+
+a.cta:link { color:#FF0000;} /* unvisited link */
+
+a.cta:visited {color:#00FF00;} /* visited link */
+
+a:cta.active {color:#0000FF;}  /* selected link */
+
+a.cta:hover {color:#FFFFFF;}   /* mouse over link */
+
+p.address { font-family: Verdana, Geneva, sans-serif; color: grey; line-height: 0.5em;}
+
+h3.address-heading { font-family: Verdana, Geneva, sans-serif; letter-spacing: 2px; }
