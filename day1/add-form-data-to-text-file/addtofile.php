@@ -1,5 +1,5 @@
-
-	<html>
+	<!DOCTYPE html>
+	<html lang="en">
 	<head>
 	<title>Write to a text file</title>
 	</head>
