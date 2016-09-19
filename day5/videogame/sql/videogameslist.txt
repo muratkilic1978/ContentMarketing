@@ -1,0 +1,238 @@
+
+Titel: Uncharted 4
+Price: 329
+descr: Tre år efter begivenhederne i Uncharted 3: Drake's Deception har Nathan Drake tilsyneladende lagt skattejagterne bag sig
+Platform: PS4
+Publisher: Sony
+
+Titel: Grand Theft Auto V (GTA 5)
+Price: 389
+Descr: Grand Theft Auto V (GTA 5) finder sted i Los Santos som er fyldt med natur, bakker og strande i det største spil i serien.
+Platform: PS4
+Publisher: Rockstar
+
+Titel: Grand Theft Auto V (GTA 5)
+Price: 389
+Descr: Grand Theft Auto V (GTA 5) finder sted i Los Santos som er fyldt med natur, bakker og strande i det største spil i serien.
+Platform: PS3
+Publisher: Rockstar
+
+Titel: DOOM 4 
+Price: 349
+Descr: DOOM is  a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat.
+Platform: PC
+Publisher: Bethesda
+
+Titel: DOOM 4 
+Price: 349
+Descr: DOOM is  a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat.
+Platform: Playstation 4
+Publisher: Bethesda
+
+Titel: DOOM 4 
+Price: 349
+Descr: DOOM is  a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat.
+Platform: Xbox One
+Publisher: Bethesda
+
+Titel: Fifa 16
+Price: 219
+Descr: FIFA 16 byder på nyskabelser overalt på banen for at sikre en afbalanceret, autentisk og spændende fodboldoplevelse, der lader dig spille på DIN måde i alle dine foretrukne spilvarianter.
+Platform: PC
+Publisher: Electronic Arts
+
+Titel: Fifa 16
+Price: 179
+Descr: FIFA 16 byder på nyskabelser overalt på banen for at sikre en afbalanceret, autentisk og spændende fodboldoplevelse, der lader dig spille på DIN måde i alle dine foretrukne spilvarianter.
+Platform: Playstation 3
+Publisher: Electronic Arts
+
+Titel: Fifa 16
+Price: 249
+Descr: FIFA 16 byder på nyskabelser overalt på banen for at sikre en afbalanceret, autentisk og spændende fodboldoplevelse, der lader dig spille på DIN måde i alle dine foretrukne spilvarianter.
+Platform: Playstation 4
+Publisher: Electronic Arts
+
+Titel: Fifa 16
+Price: 299
+Descr: FIFA 16 byder på nyskabelser overalt på banen for at sikre en afbalanceret, autentisk og spændende fodboldoplevelse, der lader dig spille på DIN måde i alle dine foretrukne spilvarianter.
+Platform: Xbox 360
+Publisher: Electronic Arts
+
+Titel:Fallout 4
+Price: 323
+Descr: Bethesda Game Studios, er de prisbelønnede skabere af Fallout 3 og The Elder Scrolls V: Skyrim og de byder dig velkommen til Fallout 4 - Deres mest ambitiøse spil nogensinde, og den næste generation af "Open-world" spil.
+Platform: PC
+Publisher: Bethesda
+
+Titel:Fallout 4
+Price: 323
+Descr: Bethesda Game Studios, er de prisbelønnede skabere af Fallout 3 og The Elder Scrolls V: Skyrim og de byder dig velkommen til Fallout 4 - Deres mest ambitiøse spil nogensinde, og den næste generation af "Open-world" spil.
+Platform: Playstation 4
+Publisher: Bethesda
+
+Titel: Call of Duty: Advanced Warfare
+Price: 199
+Descr: Det nye Call of Duty vil levere fantastisk action i single player og multiplayer, som fans af FPS genren og Call of Duty-serien vil elske!
+Platform: PC
+Publisher: Activision Blizzard
+
+Titel: Call of Duty: Advanced Warfare
+Price: 249 
+Descr: Det nye Call of Duty vil levere fantastisk action i single player og multiplayer, som fans af FPS genren og Call of Duty-serien vil elske!
+Platform: Nintendo 64
+Publisher: Activision Blizzard
+
+Titel: Call of Duty: Advanced Warfare
+Price: 279 
+Descr: Det nye Call of Duty vil levere fantastisk action i single player og multiplayer, som fans af FPS genren og Call of Duty-serien vil elske!
+Platform: Playstation 4
+Publisher: Activision Blizzard
+
+Titel: Battlefield 4
+Price: 164
+Descr: Battlefield 4 er et genre-definerende storspil, som bygger på øjeblikke, der udvisker grænsen mellem spil og ægte ærefølelse.
+Platform: PC
+Publisher: Electronic Arts
+
+Titel: Battlefield 4
+Price: 199
+Descr: Battlefield 4 er et genre-definerende storspil, som bygger på øjeblikke, der udvisker grænsen mellem spil og ægte ærefølelse.
+Platform: Nintendo DS
+Publisher: Electronic Arts
+
+Titel: Battlefield 4
+Price: 199
+Descr: Battlefield 4 er et genre-definerende storspil, som bygger på øjeblikke, der udvisker grænsen mellem spil og ægte ærefølelse.
+Platform: Playstation 4
+Publisher: Electronic Arts
+
+
+Titel: World of Warcraft 
+Price: 199
+Descr: Lorem ipsum text text ipsum lorem text.
+Platform: PC
+Publisher: Activision Blizzard
+
+
+
+Titel: Mad Max
+Price: 208
+Descr: Mad Max leverer åben verden gameplay i en post-apokalyptisk verden, hvor biler er nøglen til overlevelse.
+Platform: Playstation 4
+Publisher: Warner
+
+Titel: Super Mario 3D World
+Price: 359
+Descr: Bowser har kidnappet prinsessen af Sprixie Kingdom, og nu er det op til Mario og hans venner at redde hende, mens de på deres vej sprinter mod flagstangen på de forskellige niveauer! I
+Platform: Wii U
+Publisher: Nintendo
+
+Titel: NHL 16 
+Price: 219
+Descr: NHL 16, der bygger på endnu flere input fra vore fans end nogensinde før, går på isen med helt nye måder at konkurrere som et hold på, nye spilmuligheder til alle de mest populære single-player-varianter, nyskabelser til alle positioner på isen og en uovertruffen kampdag-atmosfære
+Platform: Playstation 4
+Publisher: Electronic Arts
+
+Titel: NHL 16 
+Price: 219
+Descr: NHL 16, der bygger på endnu flere input fra vore fans end nogensinde før, går på isen med helt nye måder at konkurrere som et hold på, nye spilmuligheder til alle de mest populære single-player-varianter, nyskabelser til alle positioner på isen og en uovertruffen kampdag-atmosfære
+Platform: Xbox One
+Publisher: Electronic Arts
+
+Titel: Batman: Arkham Knight
+Price: 208
+Descr: Den store finale til Arkham serien, Batman er oppe imod den ultimative trussel mod byen, han har svoret at beskytte. Scarecrow vender tilbage til forene et hold af superskurker, herunder Penguin, Two-Face og Harley Quinn, med formålet om at stoppe Batman én gang for alle.
+Platform: Playstation 4
+Publisher: Warner
+
+Titel: Need for Speed
+Price: 219
+Descr: With over 20 years of history in its rear view mirror, Need for Speed™ returns with a reboot that delivers on what Need for Speed stands for - rich customization, authentic urban car culture, a nocturnal open world, and an immersive narrative that drives your NFS game.
+Platform: PC
+Publisher: Electronic Arts
+
+Titel: Need for Speed
+Price: 249
+Descr: With over 20 years of history in its rear view mirror, Need for Speed™ returns with a reboot that delivers on what Need for Speed stands for - rich customization, authentic urban car culture, a nocturnal open world, and an immersive narrative that drives your NFS game.
+Platform: Playstation 4
+Publisher: Electronic Arts
+
+Titel: Need for Speed
+Price: 239
+Descr: With over 20 years of history in its rear view mirror, Need for Speed™ returns with a reboot that delivers on what Need for Speed stands for - rich customization, authentic urban car culture, a nocturnal open world, and an immersive narrative that drives your NFS game.
+Platform: Xbox One
+Publisher: Electronic Arts
+
+Titel: Halo 5: Guardians
+Price: 245
+Descr: Halo 5 er det næste spil i Halo-serien, som var introduceret under Microsofts 2013 E3 præsentation, som andet kapitel af hvad der oprindeligt blev kaldt Reclaimer trilogien, før det blev ændret til Reclaimer sagaen.
+Platform: Xbox One
+Publisher: Microsoft 
+
+Titel: The Crew
+Price: 239
+Descr: Get The Crew open world driving MMO and The Crew Wild Run expansion in one! Ride recklessly across the entire US map. Customize your cars, monster trucks and motorcycles for mayhem on- and off-road.
+Platform: PC
+Publisher: Ubisoft
+
+Titel: The Crew
+Price: 259
+Descr: Get The Crew open world driving MMO and The Crew Wild Run expansion in one! Ride recklessly across the entire US map. Customize your cars, monster trucks and motorcycles for mayhem on- and off-road.
+Platform: Playstation 4
+Publisher: Ubisoft
+
+Titel: The Crew
+Price: 299
+Descr: Get The Crew open world driving MMO and The Crew Wild Run expansion in one! Ride recklessly across the entire US map. Customize your cars, monster trucks and motorcycles for mayhem on- and off-road.
+Platform: Xbox One
+Publisher: Ubisoft
+
+Titel: Call of Duty: Black Ops III 
+Price: 199
+Descr: Call of Duty. Black Ops III deploys its players into a future where biotechnology has enabled a new breed of Black Ops soldier. 
+Platform: PC
+Publisher: Activision Blizzard
+
+Titel: Call of Duty: Black Ops III 
+Price: 239
+Descr: Call of Duty. Black Ops III deploys its players into a future where biotechnology has enabled a new breed of Black Ops soldier. 
+Platform: Playstation 3
+Publisher: Activision Blizzard
+
+Titel: Call of Duty: Black Ops III 
+Price: 269
+Descr: Call of Duty. Black Ops III deploys its players into a future where biotechnology has enabled a new breed of Black Ops soldier. 
+Platform: Xbox 360
+Publisher: Activision Blizzard
+
+Titel: Far Cry 4
+Price: 218
+Descr: Far Cry 4 er en Open World FPS, der leverer den mest ekspansive og medrivende Far Cry oplevelse til dato. I Far Cry 4, befinder spillerne sig i Kyrat, en betagende, farlig og vild region i Himalaya som er under ordningen for en despotisk selvbestaltet konge.
+Platform: Xbox 360
+Publisher: Ubisoft
+
+Titel: Far Cry 4
+Price: 239
+Descr: Far Cry 4 er en Open World FPS, der leverer den mest ekspansive og medrivende Far Cry oplevelse til dato. I Far Cry 4, befinder spillerne sig i Kyrat, en betagende, farlig og vild region i Himalaya som er under ordningen for en despotisk selvbestaltet konge.
+Platform: Playstation 2
+Publisher: Ubisoft
+
+Titel: Far Cry 4
+Price: 239
+Descr: Far Cry 4 er en Open World FPS, der leverer den mest ekspansive og medrivende Far Cry oplevelse til dato. I Far Cry 4, befinder spillerne sig i Kyrat, en betagende, farlig og vild region i Himalaya som er under ordningen for en despotisk selvbestaltet konge.
+Platform: Playstation 3
+Publisher: Ubisoft
+
+Titel: Far Cry 4
+Price: 259
+Descr: Far Cry 4 er en Open World FPS, der leverer den mest ekspansive og medrivende Far Cry oplevelse til dato. I Far Cry 4, befinder spillerne sig i Kyrat, en betagende, farlig og vild region i Himalaya som er under ordningen for en despotisk selvbestaltet konge.
+Platform: Playstation 4
+Publisher: Ubisoft
+
+Titel: Far Cry 4
+Price: 259
+Descr: Far Cry 4 er en Open World FPS, der leverer den mest ekspansive og medrivende Far Cry oplevelse til dato. I Far Cry 4, befinder spillerne sig i Kyrat, en betagende, farlig og vild region i Himalaya som er under ordningen for en despotisk selvbestaltet konge.
+Platform: Xbox 360
+Publisher: Ubisoft
+
